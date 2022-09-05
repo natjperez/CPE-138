@@ -1,5 +1,0 @@
-OVERVIEW
-In order to introduce the topic of sockets, unreliable data transport protocols (UDP), and
-reliable data transport protocols (TCP), it was necessary to complete this assignment. To
-compare the differences between UDP and TCP, the Python programming language was applied
-within the client and server files respectively.
